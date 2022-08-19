@@ -1,7 +1,7 @@
 # GameExitFix
 Fix errors closing SAMP (/q) .
 
-- Introduction:
+# Introduction:
 
      When closing SAMP, if you have many plugins. the game will crash or even freeze.
 
@@ -9,7 +9,7 @@ Fix errors closing SAMP (/q) .
 
 - Requirements : [ChatHostHandler](https://github.com/DestroyerDarkNess/ChatHostHandler)
 
-- Installation : 
+# Installation : 
 
      Extract to GTA SA folder, If you don't have ASI Loader, then Inject Plugin into game process.
 
@@ -18,3 +18,8 @@ Fix errors closing SAMP (/q) .
      It will close the game now with a new */qq* command, this is done to preserve the old */q* command.
 
 - Note : If Inject Plugin, then First Inject *ChatHostHandler* 
+
+# Check
+
+- How to create an injectable plugin in .NET : [Unmanaged.NET](https://github.com/DestroyerDarkNess/Unmanaged.Net)
+
