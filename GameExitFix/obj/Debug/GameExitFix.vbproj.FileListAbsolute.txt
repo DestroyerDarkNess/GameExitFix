@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\bin\Debug\GameExitFix.dll
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\bin\Debug\GameExitFix.pdb
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\bin\Debug\GameExitFix.xml
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.vbprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.vbproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.dll
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.xml
+c:\users\admin\documents\visual studio 2015\Projects\GameExitFix\GameExitFix\obj\Debug\GameExitFix.pdb

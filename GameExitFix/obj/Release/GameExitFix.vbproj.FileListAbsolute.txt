@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\bin\Release\GameExitFix.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\bin\Release\GameExitFix.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\bin\Release\GameExitFix.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\obj\Release\GameExitFix.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\obj\Release\GameExitFix.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\obj\Release\GameExitFix.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\obj\Release\GameExitFix.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\GameExitFix\GameExitFix\obj\Release\GameExitFix.pdb
